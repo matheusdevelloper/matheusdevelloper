@@ -5,12 +5,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/matheusitech/)
 
 
-<div style="display: inline-block">
-  <img align="top" src="https://github-readme-stats.vercel.app/api?username=matheusdevelloper&show_icons=true&theme=dracula" alt="Matheus GitHub Stats">
-
-</div>
-
-
+![Matheus's GitHub stats](https://github-readme-stats.vercel.app/api?username=matheusdevelloper&show_icons=true&theme=radical)
 
 
 ## Tecnologias que eu uso no meu dia
