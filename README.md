@@ -28,7 +28,10 @@
 
 <img align="center" alt="SPRING" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
 
-<img align="center" alt="HIBERNATE" src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white"/>
+<img align="center" alt="HIBERNATE" src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=whit"/>
+<img align="center" alt="HIBERNATE" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
+
+
 </div><br>
 
 "💡👨‍💻 Estou constantemente codificando linhas de código, pois sou completamente apaixonado por tecnologia. Mergulhar no mundo da programação é a minha forma de explorar e criar inovações incríveis. ✨🚀"
