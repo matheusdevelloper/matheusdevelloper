@@ -4,9 +4,11 @@
 [![Linkdin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-batista-evangelista-90637416b/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/matheusitech/)
 
-![Matheus GitHub stats](https://github-readme-stats.vercel.app/api?username=matheusdevelloper&show_icons=true&theme=dracula)
+<div style="display: flex; justify-content: space-between;">
+  <img src="https://github-readme-stats.vercel.app/api?username=matheusdevelloper&show_icons=true&theme=dracula" alt="Matheus GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusdevelloper&show_icons=true&theme=dracula&exclude_repo=github-readme-stats,anuraghazra.github.io" alt="Top Languages">
+</div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheusdevelloper&show_icons=true&theme=dracula&exclude_repo=github-readme-stats,anuraghazra.github.io)
 
 
 ## Tecnologias que eu uso no meu dia
