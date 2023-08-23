@@ -5,6 +5,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/matheusitech/)
 
 ![Matheus GitHub stats](https://github-readme-stats.vercel.app/api?username=matheusdevelloper&show_icons=true&theme=dracula)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheusdevelloper&show_icons=true&theme=dracula&exclude_repo=github-readme-stats,anuraghazra.github.io)
 
 
