@@ -8,6 +8,9 @@
   <img src="https://github-readme-stats.vercel.app/api?username=matheusdevelloper&show_icons=true&theme=dracula" alt="Matheus GitHub Stats">
 </div>
 
+<div style="display: inline_block"><br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusdevelloper&show_icons=true&theme=dracula&exclude_repo=github-readme-stats,anuraghazra.github.io" alt="Top Languages">
+</div>
 
 
 ## Tecnologias que eu uso no meu dia
